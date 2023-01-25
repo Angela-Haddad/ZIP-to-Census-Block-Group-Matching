@@ -5,7 +5,7 @@ A census block group is a set of one or more contiguous census blocks. The block
 
 ![example](https://user-images.githubusercontent.com/89271368/214699725-f161865b-186f-4d16-8c61-009c2f3026d9.PNG)
 
-This dataset includes matching CBGs with ZIP codes based in the Census 2020 boundaries. 
+This dataset includes matching CBGs with ZIP codes based on the Census 2020 boundaries. 
 
 Below is the description of each column:
 
